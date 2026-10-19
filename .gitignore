@@ -147,3 +147,9 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Other Stuff
+.env
+Thumbs.db
+*~
+*.blend1
